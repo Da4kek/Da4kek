@@ -12,8 +12,8 @@
 ### Contact me with:
 
 [<img align="left" alt="Discord" width="22px" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" />][discord]
-
 [<img align="left" alt="Instagram" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png"/>][instagram]
+
 
 
 ### Languages I Know:
