@@ -30,4 +30,4 @@
 
 
 [discord]: https://discord.gg/ZjmgrecfpA 
-[instagram] : https://www.instagram.com/Dark_os/
+[instagram]: https://www.instagram.com/Dark_os/
