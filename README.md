@@ -1,17 +1,15 @@
-### Hi there 👋
+### Hi there 👋, am known as DarK
+#### I am a free lance programmer and developer
+![I am a free lance programmer and developer](https://github.com/The-DarK-os/The-DarK-os/edit/main/README.md)
 
-<!--
-**The-DarK-os/The-DarK-os** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+am a programmer who uses python, c# and javascript.I do make fun projects like creating machine learning models, text generators using nltk , discord bot etc. I use to be a game developer too,I use unity to make my games 
+you can very well contact me on discord :smile:
+DarK#0009
 
-Here are some ideas to get you started:
+Skills: Python / C# / JS / R / Cloud / Networking / Linux / Hacking / IT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- 
+- 🔭 I’m currently working on this page. 
+
+
+
+
