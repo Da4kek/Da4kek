@@ -1,4 +1,4 @@
-### Hello world am Dark - aka Anirudh 👋
+### Hello world am Dark 
 
 
 ## I'm a Student a Developer!!
