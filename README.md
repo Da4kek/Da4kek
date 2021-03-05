@@ -19,12 +19,18 @@
 
 
 
-### Languages I Know:
+### Skills I have:
 - 👉 Python
-- 👉 HTML/CSS
-- 👉 Javascript
+- 👉 Hacking
+- 👉 Networking
 - 👉 C#
-
+- 👉 Hacking
+- 👉 IT
+- 👉 AI/ml/dl
+- 👉 game development
+- 👉 web automation 
+- 👉 verify and analyse big codes
+- 👉 data analysis,visuals and statistics
 ---
 
 
