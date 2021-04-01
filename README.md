@@ -24,7 +24,6 @@
 - 👉 Hacking
 - 👉 Networking
 - 👉 C#
-- 👉 Hacking
 - 👉 IT
 - 👉 AI/ml/dl
 - 👉 game development
