@@ -37,5 +37,5 @@
 
 
 
-[discord]: https://discord.gg/ZjmgrecfpA 
+[discord]: https://discord.gg/eYA6eHUYGs
 [instagram]: https://www.instagram.com/Dark_os/
