@@ -6,8 +6,7 @@
 - 🔭 currently am working on learning about IT and certificates like OSCP,CCNA,CCNP,JUNIPER etc
 - 😇 I have a lot of ideas as a programmer to execute 
 - 😀 am Open Source and people can contact me for sure
-- 🥰 Future project (spoiler) : Arduino home automation 
-- 🤘 Fun fact: am interested in every tech fields
+- 🤘  Fun fact: can stay all night to learn tech
 
 ### Contact me with:
 
@@ -28,7 +27,6 @@
 - 👉 AI/ml/dl
 - 👉 game development
 - 👉 web automation 
-- 👉 verify and analyse big codes
 - 👉 data analysis,visuals and statistics
 ---
 
