@@ -26,7 +26,6 @@
 - 👉 IT
 - 👉 AI/ml/dl
 - 👉 game development
-- 👉 web automation 
 - 👉 data analysis,visuals and statistics
 ---
 
