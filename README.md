@@ -1,7 +1,7 @@
-### Hello world am Dark 
+### Hello world!  
 
 
-## I'm a Student, a Developer!!
+## a Student, a Developer!!
 
 - 🔭 current working on machine learning and AI
 
@@ -23,7 +23,6 @@
 - 👉 IT
 - 👉 AI/ml/dl
 - 👉 game development
-- 👉 data analysis,visuals and statistics
 ---
 
 
