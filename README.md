@@ -1,33 +1,45 @@
-### Hello world!  
+### echoing Hello World!
+
+> * Obsessed with Machine learning and the world of AI
+> * Love to sacrifice sleep by just opening my favorite IDE
+> * Currently my hands are onto some popular machine learning algorithms out there
+---
+## Oh hello visitor ![visitors](https://visitor-badge.glitch.me/badge?page_id=readme)
 
 
-## a Student, a Developer!!
+### Skills that I have and had:
 
-- 🔭 current working on machine learning and AI
+> `Python`
 
-### Contact me with:
+> `Linux`
 
-[<img align="left" alt="Discord" width="22px" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" />][discord]
+> `Cloud computing`
+
+> `Networking`
+
+> `Game dev`
+
+> `Deep neural network and its types`
+
+> `Ethical hacking`
 
 
+*Trying to learn some arduinos and hardwares.*
 
-</br>
+*Feel free to contact me with a cup of coffee (Oh I love coffee)*
 
-
-
-### Skills I have:
-- 👉 Python
-- 👉 Hacking
-- 👉 Networking
-- 👉 C#
-- 👉 IT
-- 👉 AI/ml/dl
-- 👉 game development
 ---
 
+## **Most used Language** : `Python`
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-DarK-os&layout=compact)](https://github.com/The-DarK-os/)
 
 
+## **GitHub Stats** 
 
-[discord]: https://discord.gg/eYA6eHUYGs
+![The-DarK-os's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-DarK-os&show_icons=true&theme=radical&count_private=true)
+
+## **Working hard on88 : `MachineLearning-Algorithms`
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=The-DarK-os&repo=MachineLearning-Algorithms&show_owner=true&theme=radical)](https://github.com/The-DarK-os/MachineLearning-Algorithms.git)
