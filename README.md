@@ -1,32 +1,11 @@
 ### echoing Hello World!
 
-> * Obsessed with Machine learning and the world of AI
-> * Love to sacrifice sleep by just opening my favorite IDE
-> * Currently my hands are onto some popular machine learning algorithms out there
+> * Sleep less, code more
 ---
 ## Oh hello visitor ![visitors](https://visitor-badge.glitch.me/badge?page_id=readme)
 
 
-### Skills that I have and had:
-
-> `Python`
-
-> `Linux`
-
-> `Cloud computing`
-
-> `Networking`
-
-> `Game dev`
-
-> `Deep neural network and its types`
-
-> `Ethical hacking`
-
-
-*Trying to learn some arduinos and hardwares.*
-
-*Feel free to contact me with a cup of coffee (Oh I love coffee)*
+*Feel free to contact me with a cup of coffee*
 
 ---
 
