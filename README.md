@@ -2,7 +2,7 @@
 
 > * Sleep less, code more
 ---
-## Oh hello visitor ![visitors](https://visitor-badge.glitch.me/badge?page_id=readme)
+## Oh hello visitor 
 
 
 *Feel free to contact me with a cup of coffee*
