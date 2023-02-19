@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **Natural Language processing**
 
-- 🌱 I’m currently learning **Visual Cognition and Brain Anatomy**
+- 🌱 I’m currently learning **Computational Neuroscience**
 
 - 💬 Ask me about **Neural Networks, Machine Learning, Computational Neuroscience, Networking, Virtualization**
 
 - 📫 How to reach me **da4kek@gmail.com**
 
-- ⚡ Fun fact **I'm learning about Stocks and Algorithmic Trading**
+- ⚡ Fun fact is that **I prefer Linux :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
