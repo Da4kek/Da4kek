@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-dark-os&label=Profile%20views&color=0e75b6&style=flat" alt="the-dark-os" /> </p>
 
-- 🔭 I’m currently working on **Cognitive Psychology and Reinforcement learning**
+- 🔭 I’m currently working on **Social networks and Neuromorphic systems**
 
-- 🌱 I’m currently learning **Neuro-signals and AI for Neurodegenerative diseases**
+- 🌱 I’m currently learning **Spiking neural networks and computational neuro plasticity**
 
-- 💬 Ask me about **Neural Networks, Machine Learning, Computational Neuroscience, Networking, Virtualization**
+- 💬 Ask me about **Neural Networks, Machine Learning, Computational Neuroscience, Networking, Virtualization, Cybersecurity**
 
 - 📫 How to reach me **da4kek@gmail.com**
 
-- ⚡ Fun fact **I'm working on my way to learn nanotechnology and genetics**
+- ⚡ Fun fact **I'm a guy who can wear many hats**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
