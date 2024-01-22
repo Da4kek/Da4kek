@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Brain science and perceptions<br>🤝 I’m looking for collaborators with research based on computational psychiatry<br>🌱 I’m currently learning Abnormal psychology and computational models for neurooscience<br>💬 Ask me about anything related to tech :) <br>⚡ Fun fact: I love reading books, writing articles, studying people, and listening to songs
+🔭 I’m currently working on Computational neuroscience and Digitalizing bio plausible processes<br>🤝 I’m looking for collaborators with research based on computational psychiatry<br>🌱 I’m currently learning Abnormal psychology and computational models for neurooscience<br>💬 Ask me about anything related to tech :) <br>⚡ Fun fact: I love reading books, writing articles, studying people, and listening to songs
 
 
 ## 🌐 Socials:
